@@ -1,4 +1,3 @@
-eslint-disable-next-line
 import React, { Component } from 'react';
 
 // no need to modify anything in here. The final test is looking for the returned JSX from this component
